@@ -13,7 +13,7 @@ Paranoid has features like viewpasswords, createpassword, deletepassword, editpa
 
 **Example workflow**:
 
-bash
+```bash
 $ ./paranoid viewpasswords
 Enter master password: 123
 No passwords saved!
@@ -31,7 +31,7 @@ Enter master password: 123
 
 Passwords
 Github: qwerty
-
+```
 
 ## Build and Use
 
