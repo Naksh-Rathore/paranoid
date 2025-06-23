@@ -36,11 +36,11 @@ Github: qwerty
 ## Build and Use
 
 ### 1: Build
-To build the application on **Windows**, go into the **root** of the project (eg. C:\Users\Bob\paranoid). Then type ./build.bat inside of the **terminal**. When the terminal says Build complete,
+To build the application on **Windows**, go into the **root** of the project (eg. `C:\Users\Bob\paranoid`). Then type `./build.bat` inside of the **terminal**. When the terminal says `Build complete`,
 you can move onto step 2.
 
 ### 2. Use
-Once you have built the application, you can run ./paranoid to **display all commands**. That will show you what everything does (it's *not* a lot).
+Once you have built the application, you can run `./paranoid` to **display all commands**. That will show you what **everything** does (it's *not* a lot).
 
 ## Warning
 Please **do not** use this as your **personal password manager**. It is **not secure**, it is not *meant* to be secure, and the owner of the repository is **not responsible for anything security-wise**. 
