@@ -1,6 +1,6 @@
 # Paranoid Password Manager
 
-**Author: Naksh Rathore**<br />
+**Author: [Naksh Rathore](https://github.com/Naksh-Rathore)**<br />
 **Date: June 18th, 2025**
 
 ## Overview
@@ -8,8 +8,8 @@ This is a simple password manager CLI. It is made in [C](https://en.wikipedia.or
 **OSes** (operating systems) like Linux, **CLIs** (command-line applications) like Git, and **performance-critical** software.
 It is very fragile due to **no garbage collection** and **manual memory work** with things like **pointers** and **memory addresses**, so C code must be carefully written.
 
-Paranoid has features like viewpasswords, createpassword, deletepassword, editpassword and master key checking. This project also covers all of the basic C concepts such as **variables**,
-**input/output** operations, **loops**, **pointers**, **memory addresses**, and more. If you are starting to learn C, I highly recommend doing this project as it will help you to learn the basics of C very well.
+Paranoid has features like `viewpasswords`, `createpassword`, `deletepassword`, `editpassword` and master key checking. This project also covers all of the basic C concepts such as **variables**,
+**input/output** operations, **loops**, **pointers**, **memory addresses**, and more. If you are **starting** to learn C, I **highly recommend** doing this project as it will help you to learn the basics of C very well.
 
 **Example workflow**:
 
